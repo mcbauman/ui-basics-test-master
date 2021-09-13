@@ -1,0 +1,33 @@
+h1{
+    background-color: cyan;
+    position: relative;
+    top:0;
+
+}
+
+.list li:nth-child(2){
+    color: blue;
+}
+
+.image{
+    display:inline
+}
+
+.classH3{
+    font-size: 2em;
+    text-transform: uppercase;
+    color: rgb(255, 110, 14);
+}
+a:hover{
+    color:red
+}
+footer a:visited{
+    color: green;
+}
+.box-model{
+    padding:5px;
+    margin:10%;
+}
+#roundimage{
+    border-radius: 50%;
+}
