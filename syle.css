@@ -9,6 +9,12 @@ h1{
     position: fixed;
     top:0;
     margin: 0;
+    z-index: 10
+}
+main, footer{
+    position:relative;
+    top:30px;
+    
 }
 
 .list li:nth-child(2){
